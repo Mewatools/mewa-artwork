@@ -5,4 +5,4 @@ This repo collects all image work used in [Mewa](https://www.mewatools.com), fro
 It's also used as a collaborative place for those interested in improving/modifying Mewa's UI/UX.
 
 Topics in discussion:
-- [Mewa UI Colors](https://github.com/goulart81/mewa-artwork/wiki/Mewa-UI-Colors)
+- [Green & Blue](https://github.com/goulart81/mewa-artwork/discussions/2)
