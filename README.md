@@ -15,5 +15,6 @@ This repo collects all image work used in [Mewa](https://www.mewatools.com), fro
 It's also used as a collaborative place for those interested in improving/modifying Mewa's UI/UX.
 
 Topics in discussion:
+- [Store Buttons](https://github.com/Mewatools/mewa-artwork/discussions/5)
 - [Step Chooser](https://github.com/Mewatools/mewa-artwork/discussions/4)
 - [Green and Blue colors](https://github.com/goulart81/mewa-artwork/discussions/2)
