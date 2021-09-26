@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:d="https://loading.io/stock/"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -8,18 +7,18 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 78.723402 78.723401"
-   width="37"
-   height="37"
+   viewBox="0 0 512 512"
    version="1.1"
-   id="svg14"
-   sodipodi:docname="ClearWorkspace.svg"
+   id="svg4"
+   sodipodi:docname="new.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="512"
+   height="512"
    inkscape:export-filename="/home/hugo/qx/examples/compositor/src/style2/icons-ldpi/NewProject.png"
-   inkscape:export-xdpi="54.486488"
-   inkscape:export-ydpi="54.486488">
+   inkscape:export-xdpi="3.9375"
+   inkscape:export-ydpi="3.9375">
   <metadata
-     id="metadata20">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -31,7 +30,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs18" />
+     id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -42,74 +41,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1440"
-     inkscape:window-height="798"
-     id="namedview16"
+     inkscape:window-height="800"
+     id="namedview6"
      showgrid="false"
-     inkscape:zoom="10.042553"
-     inkscape:cx="-6.0446802"
-     inkscape:cy="25.564246"
-     inkscape:window-x="6"
-     inkscape:window-y="39"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g12" />
-  <g
-     class="ldl-scale"
-     id="g12"
-     transform="translate(0,-21.276598)">
-    <path
-       d="m 37.929423,80.593219 -0.02264,18.5 h 30.328 c 5.333,0 9.672,-4.339 9.672,-9.672 v -27.328 c 0,0 -40.000004,0 -40,0 z"
-       style="fill:#29abe2;fill-opacity:1"
-       id="path2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccssccc"
-       inkscape:export-filename="/home/hugo/qx/examples/compositor/src/style2/icons-ldpi/NewProject.png"
-       inkscape:export-xdpi="55.705994"
-       inkscape:export-ydpi="55.705994" />
-    <path
-       d="m 77.906779,59.093219 v -27.328 c 0,-5.332999 -4.339,-9.671999 -9.672,-9.671999 h -27.328 v 12.594999 h -1.5 c -3.256,0 -5.904,2.649 -5.904,5.905 0,3.256 2.648,5.905 5.904,5.905 h 1.5 v 12.595 z"
-       style="fill:#29abe2;fill-opacity:1"
-       id="path4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssccsssccc"
-       inkscape:export-filename="/home/hugo/qx/examples/compositor/src/style2/icons-ldpi/NewProject.png"
-       inkscape:export-xdpi="55.705994"
-       inkscape:export-ydpi="55.705994" />
-    <path
-       d="m 30.502779,40.593219 c 0,-4.399 3.206,-8.063 7.404,-8.778 V 22.09322 h -27.328 c -5.3329993,0 -9.6719993,4.339 -9.6719993,9.671999 v 27.328 H 13.502779 v 1.5 c 0,3.256 2.648,5.905 5.904,5.905 3.256,0 5.904,-2.649 5.904,-5.905 v -1.5 h 12.596 v -9.722 c -4.198,-0.715 -7.404,-4.379 -7.404,-8.778 z"
-       style="fill:#8cc63f;fill-opacity:1"
-       id="path6"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/hugo/qx/examples/compositor/src/style2/icons-ldpi/NewProject.png"
-       inkscape:export-xdpi="55.705994"
-       inkscape:export-ydpi="55.705994" />
-    <path
-       d="m 19.406779,69.498219 c -4.398,0 -8.063,-3.206 -8.778,-7.405 H 0.9067797 v 27.328 c 0,5.333 4.339,9.672 9.6719993,9.672 h 27.328 c 0,0 0,-18.134696 0,-37 h -9.722 c -0.716,4.199 -4.38,7.405 -8.778,7.405 z"
-       style="fill:#29abe2;fill-opacity:1"
-       id="path8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sccsscccs"
-       inkscape:export-filename="/home/hugo/qx/examples/compositor/src/style2/icons-ldpi/NewProject.png"
-       inkscape:export-xdpi="55.705994"
-       inkscape:export-ydpi="55.705994" />
-    <metadata
-       id="metadata10">
-      <d:name
-         style="animation-play-state:paused">puzzle</d:name>
-      <d:tags
-         style="animation-play-state:paused">puzzle,maze,merge,combine,solve,step,flow,infographics</d:tags>
-      <d:license
-         style="animation-play-state:paused">by</d:license>
-      <d:slug
-         style="animation-play-state:paused">acogix</d:slug>
-    </metadata>
-    <path
-       d="m 70.76213,98.03993 6.314887,-6.40408 c 1.1013,-1.116849 1.1013,-2.910945 0,-4.027798 L 65.68913,76.05932 77.077017,64.510588 c 1.1013,-1.116851 1.1013,-2.910947 0,-4.027796 l -6.314887,-6.40408 c -1.101298,-1.116856 -2.870406,-1.116856 -3.971703,0 L 55.402539,65.627445 44.014649,54.078712 c -1.101298,-1.116856 -2.8704,-1.116856 -3.971698,0 l -6.314894,6.40408 c -1.101297,1.116849 -1.101297,2.910946 0,4.027796 L 45.115948,76.05932 33.728057,87.608052 c -1.101297,1.116853 -1.101297,2.910949 0,4.027798 l 6.314894,6.40408 c 1.101298,1.116857 2.8704,1.116857 3.971698,0 L 55.402539,86.491197 66.790427,98.03993 c 1.089583,1.104975 2.870405,1.104975 3.971703,0 z"
-       id="path2-7"
-       inkscape:connector-curvature="0"
-       style="fill:#0071bc;fill-opacity:1;stroke-width:0.11798382"
-       inkscape:export-filename="/home/hugo/qx/examples/compositor/src/style2/icons-ldpi/NewProject.png"
-       inkscape:export-xdpi="55.705994"
-       inkscape:export-ydpi="55.705994" />
-  </g>
-  <!-- generated by https://loading.io/ -->
+     inkscape:zoom="0.921875"
+     inkscape:cx="192"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 292.33898,136 V 4.6863128e-8 H 92.338982 C 79.038982,4.6863128e-8 68.338982,10.7 68.338982,24 v 464 c 0,13.3 10.7,24 24,24 H 428.33898 c 13.3,0 24,-10.7 24,-24 V 160 h -136 c -13.2,0 -24,-10.8 -24,-24 z m 160,-14.1 v 6.1 h -128 V 4.6863128e-8 h 6.1 c 6.4,0 12.5,2.499999953136872 17,6.999999853136873 L 445.33898,105 c 4.5,4.5 7,10.6 7,16.9 z"
+     id="path2"
+     style="fill:#0071bc;fill-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>
