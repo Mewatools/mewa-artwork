@@ -16,7 +16,7 @@
    viewBox="0 0 512 512"
    version="1.1"
    id="svg4"
-   sodipodi:docname="folder-solid.svg"
+   sodipodi:docname="UpDirectory.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    inkscape:export-filename="/home/hugo/qx/examples/compositor/src/qxfiledialog/style/icons-ldpi/UpDirIcon.png"
    inkscape:export-xdpi="4.5677414"
@@ -48,20 +48,20 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="0.4609375"
-     inkscape:cx="2.1694915"
-     inkscape:cy="256"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:cx="176.81356"
+     inkscape:cy="197.42373"
+     inkscape:window-x="346"
+     inkscape:window-y="99"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <path
      d="M 464,188.74576 H 272 l -64,-64 H 48 c -26.51,0 -48,21.49 -48,48 v 288 c 0,26.51 21.49,48 48,48 h 416 c 26.51,0 48,-21.49 48,-48 v -224 c 0,-26.51 -21.49,-48 -48,-48 z"
      id="path2"
-     style="fill:#29bae2;fill-opacity:1"
+     style="fill:#0071bc;fill-opacity:1"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#0071bc;fill-opacity:1;stroke-width:0.89486873"
+     style="fill:#29bae2;fill-opacity:1;stroke-width:0.89486873"
      d="M 496.59505,104.23223 396.85819,10.738187 c -9.09917,-8.5260931 -24.63155,-8.5386149 -33.74321,0 l -99.7455,93.494043 c -13.62813,12.7716 -3.23866,33.66613 16.8716,33.66613 h 61.37262 v 227.05086 h -80.56002 a 11.508026,10.013611 0 0 0 -8.13984,2.93412 l -53.72203,46.74577 c -7.25248,6.30985 -2.11628,17.09977 8.13984,17.09977 h 188.00409 c 12.7158,0 23.02373,-8.96934 23.02373,-20.03389 V 137.89836 h 61.36398 c 20.02873,0 30.55537,-20.84278 16.8716,-33.66613 z"
      id="path2-3" />
 </svg>
