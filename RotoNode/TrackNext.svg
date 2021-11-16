@@ -12,8 +12,11 @@
    viewBox="0 0 20 20"
    version="1.1"
    id="svg14"
-   sodipodi:docname="tracker.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   sodipodi:docname="TrackNext.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/hugo/qx/examples/compositor/examples/rotonode/icons-ldpi/Tracker.png"
+   inkscape:export-xdpi="84"
+   inkscape:export-ydpi="84">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -22,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>slow_motion_video</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +45,13 @@
      id="namedview16"
      showgrid="false"
      inkscape:zoom="11.8"
-     inkscape:cx="10"
-     inkscape:cy="10"
+     inkscape:cx="1.1440678"
+     inkscape:cy="10.59322"
      inkscape:window-x="553"
      inkscape:window-y="144"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Outlined" />
+     inkscape:current-layer="g8"
+     inkscape:pagecheckerboard="true" />
   <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
   <title
      id="title2">slow_motion_video</title>
@@ -54,28 +59,26 @@
      id="desc4">Created with Sketch.</desc>
   <g
      id="Icons"
-     stroke="none"
-     stroke-width="1"
-     fill="none"
-     fill-rule="evenodd">
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
     <g
        id="Outlined"
-       transform="translate(-204.000000, -996.000000)">
+       transform="translate(-204,-996)">
       <g
          id="Av"
-         transform="translate(100.000000, 852.000000)">
+         transform="translate(100,852)">
         <g
            id="Outlined-/-AV-/-slow_motion_video"
-           transform="translate(102.000000, 142.000000)">
+           transform="translate(102,142)">
           <g
-             id="g8">
+             id="g8"
+             style="opacity:1">
             <polygon
                id="Path"
-               points="0 0 24 0 24 24 0 24" />
+               points="24,0 24,24 0,24 0,0 " />
             <path
                d="M 13.05,9.79 10,7.5 v 9 L 13.05,14.21 16,12 Z m 0,0 L 10,7.5 v 9 L 13.05,14.21 16,12 Z m 0,0 L 10,7.5 v 9 L 13.05,14.21 16,12 Z M 11.169492,5.510678 11,2.05 c -2.01,0.2 -3.84,1 -5.32,2.21 l 2.5216949,2.4469491 c 1.11,-0.86 1.5077966,-1.0162711 2.9677971,-1.1962711 z M 6.791695,7.9474577 4.26,5.68 C 3.05,7.16 2.25,8.99 2.05,11 l 3.6301695,0.169491 C 5.8601695,9.7094915 5.931695,9.0574577 6.791695,7.9474577 Z M 5.510678,12.915255 2.05,13 c 0.2,2.01 1,3.84 2.21,5.32 l 2.2774576,-2.362204 c -0.86,-1.1 -0.8467796,-1.582541 -1.0267796,-3.042541 z M 5.68,19.74 C 7.16,20.95 9,21.75 11,21.95 V 18.31983 C 9.54,18.13983 9.0574576,17.898813 7.9474576,17.038813 Z M 22,12 c 0,5.16 -3.92,9.42 -8.95,9.95 l -0.08475,-3.63017 c 3.411525,-0.265762 5.76356,-3.541016 5.76356,-6.658813 0,-3.2025424 -1.84356,-5.7150848 -5.76356,-6.2350848 L 13.05,2.05 C 18.08,2.58 22,6.84 22,12 Z"
                id="🔹-Icon-Color"
-               style="fill:#1d1d1d;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+               style="fill:#ffffff;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccsccsccs" />
           </g>
