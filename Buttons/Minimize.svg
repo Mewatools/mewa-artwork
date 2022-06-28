@@ -30,17 +30,17 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="989"
-   inkscape:window-height="756"
+   inkscape:window-width="1920"
+   inkscape:window-height="960"
    id="namedview10"
    showgrid="false"
    inkscape:pagecheckerboard="true"
-   inkscape:zoom="0.472"
-   inkscape:cx="48.146108"
-   inkscape:cy="450.77225"
-   inkscape:window-x="219"
-   inkscape:window-y="144"
-   inkscape:window-maximized="0"
+   inkscape:zoom="0.944"
+   inkscape:cx="339.45967"
+   inkscape:cy="461.36547"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
    inkscape:current-layer="g6" />
 <metadata
    id="metadata2"> Svg Vector Icons : http://www.onlinewebfonts.com/icon <rdf:RDF><cc:Work
@@ -48,9 +48,12 @@
        rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata>
 <g
    id="g6"><path
-     d="m 846.5,153.5 c -191.4,-191.4 -501.6,-191.4 -693,0 -191.4,191.4 -191.4,501.6 0,693 191.4,191.4 501.6,191.4 693,0 191.3,-191.4 191.3,-501.6 0,-693 z M 227.11526,569.39491 c -17.39077,-26.33092 -32.31909,-72.8017 -0.74202,-100.74552 61.38417,1.03198 133.21697,-0.0376 195.21368,-3.55727 -1.33127,-66.72086 -18.29351,-202.93715 8.71701,-230.5724 27.01052,-27.63525 269.07877,-27.36011 295.87065,7.52605 26.79187,34.88615 43.30027,474.05397 10.59321,505.31525 -32.70705,31.26128 -229.30016,23.80366 -266.25404,6.98285 -36.95387,-16.82082 -38.18034,-68.17575 -45.17178,-184.50823 -61.1562,1.18242 -137.72908,1.06922 -198.22671,-0.44073 z"
+     d="m 846.5,153.5 c -191.4,-191.4 -501.6,-191.4 -693,0 -191.4,191.4 -191.4,501.6 0,693 191.4,191.4 501.6,191.4 693,0 191.3,-191.4 191.3,-501.6 0,-693 z M 267.3695,789.73389 c 2.06527,-52.99416 -7.48033,-135.31453 7.73255,-185.49128 C 300.33934,521.0023 400.6093,450.07136 466.07845,435.4311 616.38888,401.81858 594.28081,277.61968 599.79546,198.50277 c 31.4079,0.8695 28.60169,2.11864 90.36217,1.17012 -7.10643,187.42852 -20.62291,253.50251 -139.83052,299.80677 -100.43718,31.65921 -128.53603,23.00605 -178.33031,103.38116 -9.88736,27.40342 -9.12094,114.93888 -8.09551,183.07651 -47.76425,2.72114 -54.37687,5.09796 -96.53179,3.79656 z"
      id="path4"
      style="fill:#ffffff;fill-opacity:1"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cssccccczzzzcc" /></g>
+     sodipodi:nodetypes="csscccsscccccc"
+     inkscape:export-filename="/home/hugo/qx/examples/compositor/src/iconatlas/icons-ldpi/MinimizeButton.png"
+     inkscape:export-xdpi="1.8610346"
+     inkscape:export-ydpi="1.8610346" /></g>
 </svg>
