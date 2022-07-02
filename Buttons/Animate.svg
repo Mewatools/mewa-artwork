@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="700pt"
+   height="420pt"
+   viewBox="0 0 700 420"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg14"
+   sodipodi:docname="Animate.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/hugo/qx/examples/compositor/src/nodes/drawnode/icons-ldpi/Animate.png"
+   inkscape:export-xdpi="3.3219459"
+   inkscape:export-ydpi="3.3219459">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1055"
+     inkscape:window-height="616"
+     id="namedview16"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="0.4981238"
+     inkscape:cx="443.55885"
+     inkscape:cy="241.22476"
+     inkscape:window-x="13"
+     inkscape:window-y="47"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g12"
+     scale-x="0.75" />
+  <g
+     transform="matrix(0.1,0,0,-0.1,0,420)"
+     id="g12"
+     style="fill:#000000;stroke:none">
+    <path
+       d="m 1351.4224,4155.1293 c -56,-27 -82,-52 -105,-102 -28,-61 -25,-114 8,-179 21,-43 37,-60 77,-81 l 50,-28 h 318 c 346,0 362,2 420,58 103,98 76,264 -53,330 -43,21 -52,22 -360,22 -290,0 -318,-2 -355,-20 z"
+       id="path2"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="3.3219457"
+       inkscape:export-ydpi="3.3219457"
+       style="fill:#29abe2;fill-opacity:1"
+       inkscape:export-filename="/home/hugo/qx/examples/compositor/src/nodes/drawnode/icons-ldpi/animate.png" />
+    <path
+       d="m 2659.4224,4160.1293 c -18,-8 -47,-28 -64,-46 -97,-100 -73,-258 51,-325 33,-18 68,-19 508,-24 l 474,-5 -64,-52 c -131,-107 -256,-239 -366,-385 l -65,-88 h -1199 c -1312.99999,0 -1236.99999,3 -1300.99999,-58 -45,-42 -60,-81 -60,-147 0,-66 15,-105 60,-147 64,-61 -1,-58 1198.99999,-58 1040,0 1096,-1 1089,-17 -26,-62 -85,-297 -101,-395 l -18,-117 -637,-3 -637,-3 -44,-30 c -117,-82 -117,-258 0,-340 l 44,-30 637,-3 637,-2 22,-133 c 17,-110 66,-298 97,-379 7,-17 -13,-18 -334,-18 -372,0 -385,-2 -444,-58 -45,-42 -60,-81 -60,-147 0,-66 15,-105 60,-147 60,-57.99999 62,-57.99999 546,-57.99999 h 444 l 66,-89 c 106,-142 250,-292 377,-393 l 54,-43 -899,-5 c -877,-5 -901,-6 -934,-25 -19,-11 -47,-37 -64,-57 -25,-31 -30,-48 -34,-105 -6,-85 21,-142.999996 85,-187.999999 l 44,-30 h 1636 c 1788,0 1675,-2.9999996 1920,56 273,65.999999 608,231.999999 812,403.999999 410,345 657,777.99999 747,1304.99999 27,161 24,504 -6,665 -84,453 -281,828 -597,1135 -184,179 -326,280 -539,385 -226,110 -458,177 -707,204 -63,7 -508,11 -1250,11 -967,-1 -1158,-3 -1185,-15 z m 2388,-396 c 598,-61 1128,-441 1365,-979 108,-247 146,-428 147,-695 0,-352 -87,-641 -285,-941 -99,-149.99996 -300,-351.99999 -453,-453.99999 -741,-493 -1726,-335 -2269,364.99999 -179,230 -290,488 -337,780 -16,104 -17,397 0,500 37,231 128,473 247,656 348,537 958,832 1585,768 z"
+       id="path4"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="3.3219457"
+       inkscape:export-ydpi="3.3219457"
+       style="fill:#0071bc;fill-opacity:1"
+       inkscape:export-filename="/home/hugo/qx/examples/compositor/src/nodes/drawnode/icons-ldpi/animate.png" />
+    <path
+       d="m 5811.4224,2843.1293 c -16,-6 -47,-22 -68,-35 -21,-13 -55,-33 -75,-45 -45,-25 -383,-219 -621,-357 -96,-55 -179,-97 -185,-93 -6,3 -161,114 -345,245 -184,131 -351,247 -372,258 -121,61 -269,-31 -269,-168 0,-62 17,-109 51,-140 20,-18 315,-230 627,-450 45,-32 112,-79 148,-105 51,-37 76,-48 120,-54 105,-13 70,-30 814,401 102,59 212,123 245,141 154,87 188,130 182,231 -2,52 -8,69 -34,100 -16,21 -44,46 -61,56 -38,22 -118,30 -157,15 z"
+       id="path6"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="3.3219457"
+       inkscape:export-ydpi="3.3219457"
+       style="fill:#29abe2;fill-opacity:1"
+       inkscape:export-filename="/home/hugo/qx/examples/compositor/src/nodes/drawnode/icons-ldpi/animate.png" />
+    <path
+       d="m 158.42241,2281.1293 c -19,-6 -48,-26 -65.999996,-42 -113.999999,-109 -74.999999,-292 72.999996,-342 23,-8 134,-12 343,-12 256,0 315,3 346,16 163.99999,68 168.99999,302 7,375 -36,17 -71,19 -355,18 -220,0 -325,-4 -348,-13 z"
+       id="path8"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="3.3219457"
+       inkscape:export-ydpi="3.3219457"
+       style="fill:#29abe2;fill-opacity:1"
+       inkscape:export-filename="/home/hugo/qx/examples/compositor/src/nodes/drawnode/icons-ldpi/animate.png" />
+    <path
+       d="m 921.42241,1336.1293 c -70,-31 -125,-113 -125,-186 0,-73 55,-154.99996 125,-185.99999 36,-17 70.00003,-19 314.99999,-19 309,0 326,4 387,72.99999 88,100 55,253 -67,315 -43,21 -54,22 -320,22 -243.99996,0 -278.99999,-2 -314.99999,-19 z"
+       id="path10"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="3.3219457"
+       inkscape:export-ydpi="3.3219457"
+       style="fill:#29abe2;fill-opacity:1"
+       inkscape:export-filename="/home/hugo/qx/examples/compositor/src/nodes/drawnode/icons-ldpi/animate.png" />
+  </g>
+</svg>

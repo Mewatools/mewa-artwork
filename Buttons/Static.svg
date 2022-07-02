@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="700pt"
+   height="420pt"
+   viewBox="0 0 700 420"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg14"
+   sodipodi:docname="Static.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/hugo/qx/examples/compositor/src/nodes/drawnode/icons-ldpi/Static.png"
+   inkscape:export-xdpi="3.2914286"
+   inkscape:export-ydpi="3.2914286">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="964"
+     inkscape:window-height="657"
+     id="namedview16"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="0.70445344"
+     inkscape:cx="428.07452"
+     inkscape:cy="280.45522"
+     inkscape:window-x="88"
+     inkscape:window-y="114"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g12" />
+  <g
+     transform="matrix(0.1,0,0,-0.1,0,420)"
+     id="g12"
+     style="fill:#000000;stroke:none">
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke:#0071bc;stroke-width:439.35922241;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path838"
+       cx="3392.2185"
+       cy="-2095.1655"
+       r="1862.3668"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="3.2852292"
+       inkscape:export-ydpi="3.2852292" />
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke:#29abe2;stroke-width:218.06269836;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.95024878"
+       id="path838-3"
+       cx="3392.2185"
+       cy="-2095.1655"
+       r="924.32959"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="3.2852292"
+       inkscape:export-ydpi="3.2852292" />
+  </g>
+</svg>
